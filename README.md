@@ -54,13 +54,11 @@
     + 根据区域获取空气质量接口存在问题
         + GPS顺序必须做限制 第一个参数的经纬度必须小于第二个参数
         + 返回数据混乱 较大一部分数据不在请求区域内
-## 演示地址
--------------------
-+ sz-p.cn/ForWeHomeOffer
 ## 截屏
 -------------------
 ![image](https://raw.githubusercontent.com/shizhao1100/ForWeHomeOffer/master/readmeIMG/img.png)
-
+## 颜色说明
+![image](https://raw.githubusercontent.com/shizhao1100/ForWeHomeOffer/master/readmeIMG/color.png)
 ## BUG?
    时间紧迫可能存在
    
