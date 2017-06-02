@@ -18,7 +18,7 @@
 
 + OpenStreetMap MapBox灰色系底图
     1.  全球化视野
-    2.  较http://www.google.cn/maps更为稳定
+    2.  较 http://www.google.cn/maps 更为稳定
     3.  灰色系凸显数据浮层
     4.  基于wgs84编码
 + leaflet.js
