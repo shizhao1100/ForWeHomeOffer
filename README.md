@@ -57,8 +57,9 @@
 ## 截屏
 -------------------
 ![image](https://raw.githubusercontent.com/shizhao1100/ForWeHomeOffer/master/readmeIMG/img.png)
-## 颜色说明
+## Marker颜色说明
 ![image](https://raw.githubusercontent.com/shizhao1100/ForWeHomeOffer/master/readmeIMG/color.png)
+
 ## BUG?
    时间紧迫可能存在
    
