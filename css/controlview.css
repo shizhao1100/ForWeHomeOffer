@@ -1,0 +1,75 @@
+#controlview {
+	position:absolute;
+	pointer-events:none;
+	right: 0%;
+	top:0%;
+	z-index:1;
+	width:100%;
+	height:100%;
+}
+
+#searcherDIV{
+	position:absolute;
+	pointer-events:auto;
+	right:2%;
+	top:5%;
+}
+#searcherHintDIV{
+	position:absolute;
+	pointer-events:auto;
+
+	background-color: snow;
+	display: none;
+	right:2%;
+	top:5%;
+	max-height:200px;
+    overflow:auto;
+}
+#buttongroup{
+	position:absolute;
+	pointer-events:auto;
+	left:12px;
+	top:80px;
+
+}
+#selectbuttongroup{
+	position:absolute;
+	pointer-events:auto;
+	left:12px;
+	bottom:20px;
+}
+.hintItemDiv{
+	/*text-align:center;*/
+}
+.hintItemDiv:hover{
+	background-color: #cccccc;
+}
+.PopupDivul{
+	margin:0;
+}
+.PopupDivli{
+	display:inline;
+	padding-right: 30;
+	list-style: none;
+	cursor:pointer
+}
+._button{
+    background-color: #F5F5F5;
+    border: 1px solid #DFE5E9;
+    display: inline-block;
+    padding: 10px 5px;
+    border-top: none;
+	cursor:pointer
+}
+.head{
+	border-radius: 8px 8px 0px 0px;
+    border-top: 1px solid #DFE5E9;
+}
+.end{
+	border-radius:0px 0px 8px 8px;
+    border-top: 1px solid #DFE5E9;
+}
+img{
+    width: 20px;
+    height: 20px;
+}
